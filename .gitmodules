@@ -1,0 +1,3 @@
+[submodule "src/presentmind-frontend"]
+	path = src/presentmind-frontend
+	url = https://github.com/samuelemezzasalma/presentmind-frontend.git
